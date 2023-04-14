@@ -38,7 +38,6 @@
 
 
 
-
         public function calculate($n1, $op, $n2)
         {
             $this->num1 = $n1;
